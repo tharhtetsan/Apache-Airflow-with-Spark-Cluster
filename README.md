@@ -1,2 +1,2 @@
 # Apache-Airflow-with-Spark-Cluster
-![airflow_with_spark](./images/airflow_with_spark.png)
+<img src="./images/airflow_with_spark.png" alt="airflow_with_spark" width="300" height="250" />
